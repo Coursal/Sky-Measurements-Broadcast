@@ -2,7 +2,7 @@
 
 A Contiki program for Sky Tmote where each node broadcasts and receives its measurements (light, temperature, humidity & solar) to its neighbors and present current, min, max and average readings on the browser (`rpl-border-router/border-router.c` needed).
 
-The folder must be put under the `contiki/examples/ipv6/sky-websense` directory.
+The source file must be put under the `contiki/examples/ipv6/sky-websense` directory.
 
 ### Output example
 #### Cooja
