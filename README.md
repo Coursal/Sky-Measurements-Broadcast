@@ -6,8 +6,8 @@ The source file must be put under the `contiki/examples/ipv6/sky-websense` direc
 
 ### Output example
 #### Cooja
-![](https://media.giphy.com/media/9SINCGMUeYiYYXzcLn/giphy.gif)
+![](tx_ranges.gif)
 #### Browser
-![](http://i65.tinypic.com/358vxc1.png)
+![](example_browser.png)
 
 Tested on **Contiki 2.7**.
